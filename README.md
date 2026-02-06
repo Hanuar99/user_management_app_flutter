@@ -237,6 +237,30 @@ flutter test --coverage
 
 ---
 
+## 📷 Capturas de Pantalla
+
+Lista de usuarios:
+
+![Lista de usuarios](screenshots/lista_usuarios.png)
+
+Formulario de usuario:
+
+![Formulario usuario](screenshots/formulario_usuario.png)
+
+Detalle de usuario:
+
+![Detalle usuario](screenshots/detalle_usuario.png)
+
+Direcciones:
+
+![Direcciones](screenshots/direcciones.png)
+
+Formulario de direcciones:
+
+![Formulario direcciones](screenshots/formulario_direcciones.png)
+
+---
+
 ## 👨‍💻 Autor
 
 **Hanuar Rubio**  
